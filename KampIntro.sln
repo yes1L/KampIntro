@@ -23,9 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{73BE0E60-7666-4339-BD0D-5E2D2CE99F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExample", "DictionaryExample\DictionaryExample.csproj", "{6E29F29F-799D-4432-9C2F-3B829891EF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExample", "DictionaryExample\DictionaryExample.csproj", "{6E29F29F-799D-4432-9C2F-3B829891EF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExample2", "DictionaryExample2\DictionaryExample2.csproj", "{4BB2A5AC-7D89-4366-BD33-595BDB39E7FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExample2", "DictionaryExample2\DictionaryExample2.csproj", "{4BB2A5AC-7D89-4366-BD33-595BDB39E7FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{5742666D-1C36-4DE9-9E4A-A7F32C784F51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary3", "MyDictionary3\MyDictionary3.csproj", "{A10BAD02-9893-4724-80F6-1A73E371410F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{219DF067-5FC4-4564-97B6-D751993CD464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{4BB2A5AC-7D89-4366-BD33-595BDB39E7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB2A5AC-7D89-4366-BD33-595BDB39E7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB2A5AC-7D89-4366-BD33-595BDB39E7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5742666D-1C36-4DE9-9E4A-A7F32C784F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5742666D-1C36-4DE9-9E4A-A7F32C784F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5742666D-1C36-4DE9-9E4A-A7F32C784F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5742666D-1C36-4DE9-9E4A-A7F32C784F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10BAD02-9893-4724-80F6-1A73E371410F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10BAD02-9893-4724-80F6-1A73E371410F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10BAD02-9893-4724-80F6-1A73E371410F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10BAD02-9893-4724-80F6-1A73E371410F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219DF067-5FC4-4564-97B6-D751993CD464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219DF067-5FC4-4564-97B6-D751993CD464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219DF067-5FC4-4564-97B6-D751993CD464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219DF067-5FC4-4564-97B6-D751993CD464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
